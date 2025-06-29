@@ -1,0 +1,2 @@
+- A Miscellaneous collection of historical and topographical information including a description of the inhabitants and invaders of Britain and providing the earliest know history of [[Arthur Pendragon]]
+- has survived approximately 35 manuscripts dating form the early 10th to the 13th century

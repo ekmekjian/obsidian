@@ -1,0 +1,21 @@
+"Art lives from constraints and dies from freedom"
+- Born during Medici 1452 Florence
+- Left handed
+- apprenticed to [[Reference/Andrea del Verrocchio]] 
+	- Leonardo was inspired by his work
+	- Baptism of Christ was a piece that was started by Andrea and finished by Leonardo
+- Da Vinci constantly made changes to his works, so many were never finished
+	- restless creativity
+- Took a job in Milan for [[Ludovico Sforza]] but during that time he barely had time for his own works 
+	- His works there military and civil engineering, architecture, stage design
+	- Ludovico, impressed with Da Vinci's work, commissioned him to create The Last Supper 
+	- Lady with an Ermine, 1489
+		- Cecilia Gallerani, mistress to Sforza
+		- Ermine was a symbol of purity and moderation
+		- Often studied to understand Leonardo's mind
+		- Lost after Cecilia's death but may have been found in 1800s and was purchased by an Italian prince, Adam Jerzy
+		- The painting continued to travel form owner to owner change it's location and owner based on the time and war even finding it's way into a Berlin museum during WW2
+- Died in 1519
+- 20+ paintings
+- With recent technology experts are able to see his technique and how his mind worked when he made constant changed to his works.
+"I offended God and mankind for my work didn't reach the quality it should have"

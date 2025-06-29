@@ -1,0 +1,12 @@
+## Frames
+- a container/wrapper for a chunk of data moving across a network.
+-   there are different types of frames
+-   DOCSIS
+-   All NICs must transmit the same frame type or they won't be able to communicate with each other
+-   A frame carries: Recipients MAC address|Senders MAC address|Type|Data|FCS
+	-   The first two are self explanatory
+	-   Type tells whats inside the frame	
+	-   Data is the purpose of our transmission(what we are actually sending)
+	-   [[FCS]] is a frame check sequence and is used by the NIC to determine if the frame came in intact
+-   Over a wired connection frames can hold up to 1500 bytes of data anything bigger is chopped up into frame size. The data chopping is handled by the system's software
+-   Thanks to this size limit other NICs on the network are able to transmit their frames with out trouble from big files.

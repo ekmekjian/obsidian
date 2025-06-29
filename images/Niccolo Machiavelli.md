@@ -1,0 +1,3 @@
+# Niccolo Machiavelli
+* Machiavellian - Pertaining to, or characteristic of Machiavelli, or his alleged principles; preferring expediency to morality; practicing duplicity; astute, cunning, intriguing.
+* Author of "The Prince"

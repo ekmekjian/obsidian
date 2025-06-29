@@ -1,0 +1,1 @@
+- It is the compiler's ability to determine types from context

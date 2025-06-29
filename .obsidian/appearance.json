@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Things",
+  "baseFontSize": 16,
+  "translucency": false,
+  "theme": "system",
+  "interfaceFontFamily": "Arial",
+  "accentColor": "#0061fe",
+  "showViewHeader": false,
+  "nativeMenus": true
+}

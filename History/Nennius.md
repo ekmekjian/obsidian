@@ -1,0 +1,2 @@
+- A Welsh antiquary who between 769 and 830 compiled or revised the [[Historia Brittonum]]
+- There is Controversy if Nennius wrote the Historia Brittonum or just appended it.

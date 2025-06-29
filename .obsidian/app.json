@@ -1,0 +1,31 @@
+{
+  "promptDelete": false,
+  "mobileToolbarCommands": [
+    "editor:set-heading",
+    "editor:insert-wikilink",
+    "editor:toggle-checklist-status",
+    "editor:toggle-bullet-list",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:insert-tag",
+    "editor:attach-file",
+    "insert-current-date",
+    "editor:insert-embed",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-strikethrough",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:insert-link",
+    "editor:toggle-numbered-list",
+    "editor:undo",
+    "editor:redo",
+    "editor:toggle-keyboard",
+    "editor:configure-toolbar"
+  ],
+  "showInlineTitle": true,
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "livePreview": true
+}

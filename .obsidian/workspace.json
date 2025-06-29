@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "c30c38b0923895a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1ae57508d5d62e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c54adba9480b17f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-06-29.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-06-29"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0e55e99a3f933ea0",
+    "type": "split",
+    "children": [
+      {
+        "id": "68b50c7454c476be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52fd093f0943913e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cd77a6caccfcaee4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#dictator",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "855091821b0773e9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e9894e16c215b3f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e583d511b59ffd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09b3a652079c99e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "9f5cc29c27f37dda",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "0e66e60fcd4ef5b7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e86488804557eeed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "How did the Anti-Abortion movement over turn Roe vs Wade?.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of How did the Anti-Abortion movement over turn Roe vs Wade?"
+            }
+          },
+          {
+            "id": "9d7a0ae297795eb4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a34ac0d494120c29",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "switcher:Open quick switcher": false,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "6c54adba9480b17f",
+  "lastOpenFiles": [
+    "2025-06-29.md",
+    "CyberSecurity.md",
+    "1750807177-MHOW.md",
+    "How did the Anti-Abortion movement over turn Roe vs Wade?.md",
+    "Dictators.base",
+    "Reference/Allison Mack.md",
+    "Reference/Andrea del Verrocchio.md",
+    "Untitled.md",
+    "Books.base",
+    "Reference/Karl Marx.md",
+    "Reference/Disturbing Documentries.md",
+    "Reference/NXIVM.md",
+    "Reference/[PentesterLab] Bootcamp.md",
+    "20231225.md",
+    "2024-03-06.md",
+    "Excalidraw/Drawing 2024-03-03 20.46.45.excalidraw.md",
+    "20240303.md",
+    "Niccolo Machiavelli.md",
+    "Reference/What is Breatharianism?.md",
+    "Excalidraw/Drawing 2023-12-25 21.00.35.excalidraw.md",
+    "How to become a Tyrant.md",
+    "OverTheWire/lvl1.md",
+    "OverTheWire/lvl0.md",
+    "something.md",
+    "Untitled 1.md",
+    "Reference/Add HTML elements dynamically with JavaScript inside DIV with specific ID.md",
+    "Reference/10 Amazing Sites to Find High-Quality Vector Art.md",
+    "How did the Anti-Abortion movement over turn Roe vs Wade_.md",
+    "Projects/SwifTodo/SwifTodo.excalidraw",
+    "SwifTodo.excalidraw",
+    "Projects/SwifTodo",
+    "Black mounted floppy.jpg",
+    "Excalidraw",
+    "Programming/Web Development/Basic CSS/Untitled.png"
+  ]
+}

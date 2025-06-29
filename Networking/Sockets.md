@@ -1,0 +1,1 @@
+- a way to speak to other programs using the standard Unix file descriptor

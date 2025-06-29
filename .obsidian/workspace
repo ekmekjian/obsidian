@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "c30c38b0923895a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "aedb1d2505695760",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Reference/Untitled Note.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0e55e99a3f933ea0",
+    "type": "split",
+    "children": [
+      {
+        "id": "68b50c7454c476be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52fd093f0943913e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cd77a6caccfcaee4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2bae74e2de008c24",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e9894e16c215b3f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e583d511b59ffd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1035aff7af4ae1b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "09b3a652079c99e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Reference/Untitled Note.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9f5cc29c27f37dda",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Reference/Untitled Note.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e66e60fcd4ef5b7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e86488804557eeed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Reference/Untitled Note.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2bae74e2de008c24",
+  "lastOpenFiles": [
+    "images/Why you can’t trust things you copy and paste from web pages.md",
+    "Reference/Programming a HTTP Server on ESP-8266-12E.md",
+    "Reference/Disturbing Documentries.md",
+    "Reference/10 Amazing Sites to Find High-Quality Vector Art.md",
+    "Templates/Daily.md",
+    "Daily Notes/2022-02-17.md",
+    "Daily Notes/2022-03-24.md",
+    "Daily Notes/2022-02-22 1.md",
+    "20220820.md",
+    "images/NXIVM.md"
+  ]
+}
