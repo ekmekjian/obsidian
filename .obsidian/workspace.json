@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Networking.md",
+                "file": "How did the Anti-Abortion movement over turn Roe vs Wade?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Networking"
+              "title": "How did the Anti-Abortion movement over turn Roe vs Wade?"
             }
           }
         ]
@@ -199,7 +199,9 @@
   },
   "active": "f9848d708657a6bd",
   "lastOpenFiles": [
+    "Test.md",
     "Networking.md",
+    "Networking/Networking.md",
     "Cybersecurity.md",
     "2025-06-29.md",
     "CyberSecurity.md",
@@ -208,7 +210,6 @@
     "Dictators.base",
     "Reference/Allison Mack.md",
     "Reference/Andrea del Verrocchio.md",
-    "Untitled.md",
     "Books.base",
     "Reference/Karl Marx.md",
     "Reference/Disturbing Documentries.md",
@@ -226,7 +227,6 @@
     "OverTheWire/lvl0.md",
     "something.md",
     "Untitled 1.md",
-    "Reference/Add HTML elements dynamically with JavaScript inside DIV with specific ID.md",
     "Projects/SwifTodo/SwifTodo.excalidraw",
     "SwifTodo.excalidraw",
     "Projects/SwifTodo",
