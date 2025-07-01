@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3392fd8658d2437d",
+        "id": "9205e598bb01d03a",
         "type": "tabs",
         "children": [
           {
-            "id": "508785add659ccf3",
+            "id": "855376a430313790",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "HackTheBox/Dancing.md",
-                "bFile": "HackTheBox/Dancing.md",
-                "aRef": ""
+                "file": "2025-07-01.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Dancing"
+              "icon": "lucide-file",
+              "title": "2025-07-01"
             }
           }
         ]
@@ -188,7 +188,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 208.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,7 +207,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "508785add659ccf3",
+  "active": "855376a430313790",
   "lastOpenFiles": [
     "2025-07-01.md",
     "HackTheBox/Dancing.md",
