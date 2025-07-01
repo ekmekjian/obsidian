@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dancing.md",
+                "file": "HackTheBox/Dancing.md",
                 "mode": "source",
                 "source": false
               },
@@ -207,9 +207,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "65be08b5079c5da9",
+  "active": "52fd093f0943913e",
   "lastOpenFiles": [
-    "Dancing.md",
+    "HackTheBox/Dancing.md",
     "Networking/Networking.md",
     "HackTheBox/Pawn.md",
     "Screenshot 2025-06-30 at 11.16.29 PM.png",
