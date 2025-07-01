@@ -4,81 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "2264d9d3198daf85",
+        "id": "5974121de632b0b6",
         "type": "tabs",
         "children": [
           {
-            "id": "24e05a98da6179b7",
+            "id": "9e6c66e309a3da79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-07-01.md",
+                "file": "2025-06-29 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-01"
-            }
-          },
-          {
-            "id": "9d3ec889f36ea227",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-06-29.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-06-29"
-            }
-          },
-          {
-            "id": "ff0a9eec15635a03",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Cybersecurity.md",
-                "bFile": "Cybersecurity.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Cybersecurity"
-            }
-          },
-          {
-            "id": "7659718cb89ba443",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Cybersecurity.md",
-                "bFile": "Cybersecurity.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Cybersecurity"
-            }
-          },
-          {
-            "id": "7cf68ab86246b457",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "2025-06-29 2"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "2025-06-29 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for conflict-files-obsidian-git"
+              "title": "Backlinks for 2025-06-29 2"
             }
           },
           {
@@ -170,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "2025-06-29 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from conflict-files-obsidian-git"
+              "title": "Outgoing links from 2025-06-29 2"
             }
           },
           {
@@ -213,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "2025-06-29 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline of 2025-06-29 2"
             }
           },
           {
@@ -265,11 +208,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7cf68ab86246b457",
+  "active": "9e6c66e309a3da79",
   "lastOpenFiles": [
+    "2025-06-29 1.md",
+    "2025-06-29 2.md",
+    "conflict-files-obsidian-git.md",
     "Cybersecurity.md",
     "Untitled.md",
-    "conflict-files-obsidian-git.md",
     "2025-06-29.md",
     "Networking.md",
     "2025-07-01.md",
@@ -302,8 +247,6 @@
     "20231225.md",
     "2024-03-06.md",
     "Excalidraw/Drawing 2024-03-03 20.46.45.excalidraw.md",
-    "20240303.md",
-    "Niccolo Machiavelli.md",
     "Projects/SwifTodo/SwifTodo.excalidraw",
     "SwifTodo.excalidraw",
     "Projects/SwifTodo",
