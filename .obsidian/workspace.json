@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a40471c8fff2eef0",
+        "id": "3392fd8658d2437d",
         "type": "tabs",
         "children": [
           {
-            "id": "65be08b5079c5da9",
+            "id": "508785add659ccf3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "HackTheBox/Dancing.md",
-                "mode": "source",
-                "source": false
+                "aFile": "HackTheBox/Dancing.md",
+                "bFile": "HackTheBox/Dancing.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Dancing"
+              "icon": "diff",
+              "title": "Diff: Dancing"
             }
           }
         ]
@@ -188,8 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5,
-    "collapsed": true
+    "width": 208.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,14 +206,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "65be08b5079c5da9",
+  "active": "508785add659ccf3",
   "lastOpenFiles": [
+    "2025-07-01.md",
+    "HackTheBox/Dancing.md",
     "Screenshot 2025-06-30 at 11.57.54 PM.png",
     "Screenshot 2025-06-30 at 11.56.05 PM.png",
     "Screenshot 2025-06-30 at 11.50.29 PM.png",
     "Screenshot 2025-06-30 at 11.48.58 PM.png",
     "Screenshot 2025-06-30 at 11.35.50 PM.png",
-    "HackTheBox/Dancing.md",
     "Networking/Networking.md",
     "HackTheBox/Pawn.md",
     "Screenshot 2025-06-30 at 11.16.29 PM.png",

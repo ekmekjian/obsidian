@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity.md",
-                "mode": "source",
+                "file": "HackTheBox/Dancing.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cybersecurity"
+              "title": "Dancing"
             }
           }
         ]
@@ -187,20 +187,21 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "obsidian-kanban:Create new board": false,
-      "periodic-notes:Open today": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "82dd10e5d2bb88b8",
   "lastOpenFiles": [
+    "2025-07-01.md",
+    "Cybersecurity.md",
     "2025-06-29.md",
     "Networking/Little Endian.md",
     "Networking/Byte Order.md",
     "Networking/Networking.md",
     "Networking.md",
-    "Cybersecurity.md",
     "How did the Anti-Abortion movement over turn Roe vs Wade?.md",
     "Excalidraw/Drawing 2023-04-02 01.04.34.excalidraw.md",
     "20240303.md",
@@ -221,7 +222,6 @@
     "Programming/NASA Open API.md",
     "Programming/Web Development/Basic CSS/Untitled.png",
     "Programming/JavaScript/Functions.md",
-    "Programming/JavaScript/BigInt.md",
     "Programming/Web Development/React",
     "Projects/SwifTodo/SwifTodo.excalidraw",
     "Programming/Web Development/Basic CSS",
