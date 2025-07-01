@@ -8,4 +8,6 @@ Machine: 10.129.219.193
 ### Finding which Share doesn't require password for access
 ![[Screenshot 2025-06-30 at 11.50.29 PM.png]]
 - `smbclient \\\\10.129.219.193\\IPC$` required no password for access
+	- `dir` and `ls` produced no results
+- `smbclient \\\\10.129.219.193\\WorkShares` required no password for access
 
