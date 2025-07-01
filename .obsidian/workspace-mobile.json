@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Little Endian.md",
+                "file": "HackTheBox/Dancing.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Little Endian"
+              "title": "Dancing"
             }
           }
         ]
@@ -112,8 +112,8 @@
         "state": {
           "type": "calendar",
           "state": {},
-          "icon": "calendar-with-checkmark",
-          "title": "Calendar"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -189,15 +189,19 @@
       "obsidian-kanban:Create new board": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
       "periodic-notes:Open today": false
     }
   },
   "active": "82dd10e5d2bb88b8",
   "lastOpenFiles": [
+    "2025-07-01.md",
+    "Cybersecurity.md",
+    "2025-06-29.md",
+    "Networking/Little Endian.md",
     "Networking/Byte Order.md",
     "Networking/Networking.md",
     "Networking.md",
-    "Cybersecurity.md",
     "How did the Anti-Abortion movement over turn Roe vs Wade?.md",
     "Excalidraw/Drawing 2023-04-02 01.04.34.excalidraw.md",
     "20240303.md",
@@ -218,11 +222,8 @@
     "Programming/NASA Open API.md",
     "Programming/Web Development/Basic CSS/Untitled.png",
     "Programming/JavaScript/Functions.md",
-    "Programming/JavaScript/BigInt.md",
-    "Readwise/Books/The Rise and Triumph of the Modern Self.md",
     "Programming/Web Development/React",
     "Projects/SwifTodo/SwifTodo.excalidraw",
-    "Projects/SwifTodo/SwifTodo.md",
     "Programming/Web Development/Basic CSS",
     "Programming/Web Development",
     "Projects/SwifTodo",
