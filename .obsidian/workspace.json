@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c93984c873b45e67",
+        "id": "1cae114730aff90d",
         "type": "tabs",
         "children": [
           {
-            "id": "b7604e1b26908d05",
+            "id": "c822cdf6ba3a4f82",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "File Transfer Protocols.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "File Transfer Protocols"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -90,37 +90,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "09b3a652079c99e6",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
-            "id": "9f5cc29c27f37dda",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
-          },
-          {
             "id": "0e66e60fcd4ef5b7",
             "type": "leaf",
             "state": {
@@ -141,13 +110,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "File Transfer Protocols.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of File Transfer Protocols"
+              "title": "Outline"
             }
           },
           {
@@ -161,12 +129,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 208.5,
-    "collapsed": true
+    "width": 208.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,10 +151,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cd77a6caccfcaee4",
+  "active": "c822cdf6ba3a4f82",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "File Transfer Protocols.md",
+    "conflict-files-obsidian-git.md",
     "2025-07-01.md",
     "HackTheBox/Dancing.md",
     "Screenshot 2025-06-30 at 11.57.54 PM.png",
