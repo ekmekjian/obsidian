@@ -24,3 +24,4 @@ tags: []
 		- [pentester.lab](https://pentester.land/writeups)
 	2. Code Write-ups
 		- Pentesterlab.com
+5. [Advanced Web Penetration Testing Certification](https://academy.hackthebox.com/preview/certifications/htb-certified-web-exploitation-expert/where-to-start)
