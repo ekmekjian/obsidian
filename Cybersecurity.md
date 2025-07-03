@@ -11,7 +11,8 @@ tags: []
 **Spoofing** - Identifying yourself as another device on the network
     - Works on poorly implemented networks
 # RoadMap
-1. TryHackMe.com
+1. TryHackMe.com($14 monthly)
 	- Jr. Pentresting Path
-2. Porswigger
-3. 
+2. Portswigger (Free)
+3. Tcm Security ($30 monthly)
+	1. [Practical Web Hacking](https://academy.tcm-sec.com/p/practical-web-hacking)
