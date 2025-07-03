@@ -16,3 +16,4 @@ tags: []
 2. Portswigger (Free)
 3. Tcm Security ($30 monthly)
 	1. [Practical Web Hacking](https://academy.tcm-sec.com/p/practical-web-hacking)
+	2. [Practical Bug Bounty](https://academy.tcm-sec.com/p/practical-bug-bounty)
