@@ -15,7 +15,7 @@ tags: []
 	- Jr. Pentresting Path
 2. Portswigger (Free)
 	- [Work through Labs](https://portswigger.net/web-security/all-labs)
-3. Tcm Security ($30 monthly)
+3. Tcm Security Academy ($30 monthly)
 	1. [Practical Web Hacking](https://academy.tcm-sec.com/p/practical-web-hacking)
 	2. [Practical Bug Bounty](https://academy.tcm-sec.com/p/practical-bug-bounty)
 4. 
