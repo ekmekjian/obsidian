@@ -22,4 +22,5 @@ tags: []
 4. Read Write-ups
 	1. Bug Bounties
 		- [pentester.lab](https://pentester.land/writeups)
-		- 
+	2. Code Write-ups
+		- Pentesterlab.com
