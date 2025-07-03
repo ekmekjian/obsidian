@@ -29,4 +29,5 @@ tags: []
 	1. AWS
 	2. GCP
 7. Practice [cloud labs](https://pwnedlabs.io)
-8. 
+8. [AWS Pentest Cert](https://cloudbreach.io/breachingaws/)
+9. 
