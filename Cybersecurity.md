@@ -19,4 +19,7 @@ tags: []
 3. Tcm Security Academy ($30 monthly)
 	1. [Practical Web Hacking](https://academy.tcm-sec.com/p/practical-web-hacking)
 	2. [Practical Bug Bounty](https://academy.tcm-sec.com/p/practical-bug-bounty)
-4. 
+4. Read Write-ups
+	1. Bug Bounties
+		- [pentester.lab](https://pentester.land/writeups)
+		- 
