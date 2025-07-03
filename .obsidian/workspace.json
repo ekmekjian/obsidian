@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File Transfer Protocols.md",
+                "file": "Cybersecurity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "File Transfer Protocols"
+              "title": "Cybersecurity"
             }
           }
         ]
@@ -124,8 +124,55 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
+            }
+          },
+          {
+            "id": "28c1d38c99491bad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "File Transfer Protocols.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for File Transfer Protocols"
+            }
+          },
+          {
+            "id": "fea703406bd39360",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "File Transfer Protocols.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from File Transfer Protocols"
+            }
+          },
+          {
+            "id": "9043640bde15f8f6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
@@ -139,7 +186,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "switcher:Open quick switcher": false,
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
@@ -148,14 +194,13 @@
       "obsidian-kanban:Create new board": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open today": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "b342e4a1db85e14d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "File Transfer Protocols.md",
+    "conflict-files-obsidian-git.md",
     "2025-07-01.md",
     "HackTheBox/Dancing.md",
     "Screenshot 2025-06-30 at 11.57.54 PM.png",
