@@ -10,6 +10,7 @@ tags: []
 
 **Spoofing** - Identifying yourself as another device on the network
     - Works on poorly implemented networks
+
 # RoadMap
 1. TryHackMe.com($14 monthly)
 	- Jr. Pentresting Path
