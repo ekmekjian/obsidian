@@ -12,7 +12,7 @@ tags: []
     - Works on poorly implemented networks
 
 # RoadMap
-1. TryHackMe.com($14 monthly)
+1. TryHackMe.com($14 monthly) (or HTB Pentester path?)
 	- Jr. Pentresting Path
 2. Portswigger (Free)
 	- [Work through Labs](https://portswigger.net/web-security/all-labs)
