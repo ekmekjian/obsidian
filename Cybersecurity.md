@@ -28,3 +28,5 @@ tags: []
 6. Specialize in one Cloud Provider - Learning one is transferable to others
 	1. AWS
 	2. GCP
+7. Practice [cloud labs](https://pwnedlabs.io)
+8. 
