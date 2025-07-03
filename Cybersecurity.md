@@ -25,3 +25,6 @@ tags: []
 	2. Code Write-ups
 		- Pentesterlab.com
 5. [Advanced Web Penetration Testing Certification](https://academy.hackthebox.com/preview/certifications/htb-certified-web-exploitation-expert/where-to-start)
+6. Specialize in one Cloud Provider - Learning one is transferable to others
+	1. AWS
+	2. GCP
