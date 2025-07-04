@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c9da411a3821bbc5",
+        "id": "18af0019c0241fde",
         "type": "tabs",
         "children": [
           {
-            "id": "897d7470c3200c24",
+            "id": "96142de5dc4bf86b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Proxmox VM Setup.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Proxmox VM Setup"
+              "title": "New tab"
             }
           }
         ]
