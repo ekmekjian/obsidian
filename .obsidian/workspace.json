@@ -11,10 +11,15 @@
             "id": "a833183abea06b00",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Backups and Recovery.md",
+                "bFile": "Backups and Recovery.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Backups and Recovery"
             }
           }
         ]
@@ -193,10 +198,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6f51a19c3513e19a",
+  "active": "a833183abea06b00",
   "lastOpenFiles": [
-    "File Transfer Protocols.md",
     "conflict-files-obsidian-git.md",
+    "Proxmox VM Setup.md",
+    "Backups and Recovery.md",
+    "File Transfer Protocols.md",
     "2025-07-01.md",
     "HackTheBox/Dancing.md",
     "Screenshot 2025-06-30 at 11.57.54 PM.png",
@@ -230,8 +237,6 @@
     "Reference/[PentesterLab] Bootcamp.md",
     "20231225.md",
     "2024-03-06.md",
-    "Excalidraw/Drawing 2024-03-03 20.46.45.excalidraw.md",
-    "20240303.md",
     "Projects/SwifTodo/SwifTodo.excalidraw",
     "SwifTodo.excalidraw",
     "Projects/SwifTodo",
