@@ -11,10 +11,14 @@
             "id": "44d8016a9a785b90",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Networking/Networking.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Networking"
             }
           }
         ]
@@ -177,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 208.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,7 +198,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6f51a19c3513e19a",
+  "active": "44d8016a9a785b90",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Proxmox VM Setup.md",
