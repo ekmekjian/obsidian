@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "67457ae4fcf84299",
+        "id": "21cc328c95790fe8",
         "type": "tabs",
         "children": [
           {
-            "id": "a833183abea06b00",
+            "id": "44d8016a9a785b90",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Backups and Recovery.md",
-                "bFile": "Backups and Recovery.md",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Backups and Recovery"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -198,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a833183abea06b00",
+  "active": "6f51a19c3513e19a",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Proxmox VM Setup.md",
