@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Networking.md",
+                "file": "HackTheBox/Dancing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Networking"
+              "title": "Dancing"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.5,
-    "collapsed": true
+    "width": 206.5
   },
   "right": {
     "id": "e9894e16c215b3f9",
@@ -117,16 +116,6 @@
               },
               "icon": "lucide-list",
               "title": "Outline of File Transfer Protocols"
-            }
-          },
-          {
-            "id": "6f51a19c3513e19a",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
             }
           },
           {
@@ -177,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -200,6 +189,7 @@
   },
   "active": "44d8016a9a785b90",
   "lastOpenFiles": [
+    "Networking/Networking.md",
     "conflict-files-obsidian-git.md",
     "Proxmox VM Setup.md",
     "Backups and Recovery.md",
@@ -211,7 +201,6 @@
     "Screenshot 2025-06-30 at 11.50.29 PM.png",
     "Screenshot 2025-06-30 at 11.48.58 PM.png",
     "Screenshot 2025-06-30 at 11.35.50 PM.png",
-    "Networking/Networking.md",
     "HackTheBox/Pawn.md",
     "Screenshot 2025-06-30 at 11.16.29 PM.png",
     "Screenshot 2025-06-30 at 11.14.06 PM.png",
